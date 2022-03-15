@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Raj
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Linux 🐧
 - 🌱 I’m currently learning JavaScript
 - 📫 Reach out to me and my friends at my <a href="https://discord.gg/5drT6tdu8e" target="blank_"><strong>Discord Community</strong></a>
 
