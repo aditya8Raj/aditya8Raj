@@ -1,3 +1,7 @@
+ <img
+      src="https://cdn.discordapp.com/attachments/954798558912057384/965135050440077332/twitter-header.jpg"
+      alt="image"
+    />
 - 👋 Hi, I’m Aditya Raj
 - 👀 I’m interested in Web Development and Linux 🐧
 - 🌱 I’m currently learning JavaScript
