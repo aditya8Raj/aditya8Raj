@@ -20,7 +20,7 @@
 - <img style="height: 8mm"
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-envelope_1f9e7.png"
       alt="image"
-    />  Reach out to me and my friends at my <a href="https://discord.gg/k4At4puTCk" target="blank_"><strong>Discord Community</strong></a>
+    />  Reach out to me and my friends at my <a href="https://discord.gg/BJ5KbzHDxr" target="blank_"><strong>Discord Community</strong></a>
 
 <!---
 aditya8Raj/aditya8Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
