@@ -17,11 +17,6 @@
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png"
       alt="image"
     />  I’m currently learning ReactJS ⚛️ 
-- <img style="height: 8mm"
-      src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/red-envelope_1f9e7.png"
-      alt="image"
-    />  Reach out to me and my friends at my <a href="https://discord.gg/BJ5KbzHDxr" target="blank_"><strong>Discord Community</strong></a>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
