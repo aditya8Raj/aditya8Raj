@@ -9,7 +9,7 @@
 - <img style="height: 8mm"
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"
       alt="hi-gif"
-    />  I’m a MERN stact Developer and Linux Enthusiast <img style="height: 8mm"
+    />  I’m a Web Developer and Linux Enthusiast <img style="height: 8mm"
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/penguin_1f427.png"
       alt="image"
     />
