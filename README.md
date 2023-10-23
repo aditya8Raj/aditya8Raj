@@ -93,7 +93,7 @@
 ## Connect with me 
 
 
-<a href="https://www.instagram.com/aditya.panic" target="_blank">
+<a href="https://www.instagram.com/aditya.ka.raj" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/aditya7raj1" target="_blank">
