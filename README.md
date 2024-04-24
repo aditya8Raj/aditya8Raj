@@ -1,5 +1,5 @@
  <img
-      src="https://cdn.discordapp.com/attachments/954798558912057384/965135050440077332/twitter-header.jpg"
+      src="https://cdn.discordapp.com/attachments/1221526797255180289/1232567055350235166/github-header.gif?ex=6629ed05&is=66289b85&hm=d96b8539b71f985199a082c6487b2a71a014ce17b963e4a63a0b7078d7c20184&"
       alt="image"
     />
 - <img style="height: 8mm"
