@@ -1,5 +1,5 @@
 <img
-      src="https://cdn.discordapp.com/attachments/1221526797255180289/1232567055350235166/github-header.gif?ex=6629ed05&is=66289b85&hm=d96b8539b71f985199a082c6487b2a71a014ce17b963e4a63a0b7078d7c20184&"
+      src="https://phone-connect.vercel.app/src/github-header.gif"
       alt="image"
     />
 
@@ -105,5 +105,5 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1221526797255180289/1232578565661397052/Ramen.gif?ex=6629f7be&is=6628a63e&hm=8bf4695ca8b64f56b70dfa82dbabd4e43deef495aac5f8a80d6806be69694efa&" />
+    <img src="https://phone-connect.vercel.app/src/Ramen.gif" />
 </p>
