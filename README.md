@@ -82,7 +82,18 @@
   ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%23000000?style=for-the-badge&logo=archlinux&logoColor=white)
   ![Manjaro](https://img.shields.io/badge/manjaro-009688?style=for-the-badge&logo=manjaro&logoColor=white)
 
+<!-- simle icons -->
 </p>
+
+<br>
+
+## Stats
+
+<div align="center"> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya8raj&show_icons=true&theme=dark" alt="aditya8raj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aditya8raj&theme=dark&hide_border=true&border_radius=15.2&date_format=j%20M%5B%20Y%5D" alt="aditya8raj" /></p>
+</div>
 
 <br>
 
@@ -93,13 +104,12 @@
 </a>
 <a href="https://twitter.com/nerdinbiz" target="_blank">
 <img src=https://img.shields.io/badge/X%20(Twitter)-%2300acee.svg?color=141414&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
- 
+</a>
+<a href="https://discord.gg/cq3yDd3Ked" target="_blank">
+<img src="https://img.shields.io/badge/discord-%ff5851db.svg?color=blue&style=for-the-badge&logo=discord&logoColor=white" t=discord style="margin-bottom: 5px;" />
 </a>
 
-<!---
-aditya8Raj/aditya8Raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</a>
 
 <br/>
 <br/>
