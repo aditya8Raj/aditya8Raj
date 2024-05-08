@@ -107,3 +107,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     <img src="https://phone-connect.vercel.app/src/Ramen.gif" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya8raj&label=Profile%20views&color=blueviolet&style=flat" alt="aditya8raj" /> </p>
