@@ -3,10 +3,14 @@
       alt="image"
     />
 
-- <img style="height: 8mm"
-      src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-      alt="hi-gif"
-    /> Hi, I’m <b>Aditya Raj</b>
+<div align="center">
+
+<img src="https://phone-connect.vercel.app/src/pfp.png" alt="my-pfp"/>
+
+# Hi, I’m Aditya Raj <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="hand-wave-gif" style="height: 8mm"/>
+
+</div>
+
 - <img style="height: 8mm"
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png"
       alt="image"
@@ -22,8 +26,9 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    <!-- ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) -->
+  ![reactjs](https://img.shields.io/badge/react.js%20-%2357c3db.svg?&style=for-the-badge&logo=react.js&logoColor=white)
     <!---
+    ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
       ![typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
       ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
       ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
