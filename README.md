@@ -14,7 +14,7 @@
 - <img style="height: 8mm"
       src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/seedling_1f331.png"
       alt="image"
-    /> I’m currently learning [ReactJS ⚛️](https://github.com/aditya8Raj/reactjs)
+    /> I’m currently learning NextJs
 
 <p align="center">
 
