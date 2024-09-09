@@ -91,4 +91,4 @@
 
 ---
 
-*If you’re still reading this, hope in the server and have a talk [here](https://discord.gg/S4QV6BbcNA). But seriously, step up or step aside.*
+*If you’re still reading this, hope in the community, lets have a talk [there](https://discord.gg/S4QV6BbcNA). But seriously, step up or step aside.*
