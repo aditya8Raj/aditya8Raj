@@ -9,7 +9,7 @@
 </div>
 
 - 🌱 Currently mastering **NextJs** because why settle for average, right?
-- 🚀 Check out my personal playground: [adityaraj.ninja](https://adityaraj.ninja)  
+- 🚀 Check out the portfolio: [adityaraj.ninja](https://adityaraj.ninja)  
 *(If you can handle it)*.
 
 ---
