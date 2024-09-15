@@ -94,7 +94,7 @@
   ![Manjaro](https://img.shields.io/badge/manjaro-009688?style=for-the-badge&logo=manjaro&logoColor=white)
   
   
-*I run the show with these. Get on my level.*
+*I run the show with these.*
 
 <br/>
 
