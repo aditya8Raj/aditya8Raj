@@ -143,4 +143,4 @@
 
 ---
 
-*If you’re still reading this, hop in the community, lets have a talk [there](https://discord.gg/S4QV6BbcNA). But seriously, step up or step aside.*
+*If you’re still reading this, hop in the community, lets have a talk [there](https://discord.gg/S4QV6BbcNA).*
