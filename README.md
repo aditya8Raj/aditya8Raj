@@ -73,6 +73,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya7raj1/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/aditya7raj1)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/4ditya)
+[![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aditya8raj/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/aditya8raj)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/scvexb3qekc6vgxmkf6o7iltc)
 
