@@ -6,11 +6,11 @@
 
 </div>
 
-- 👨‍💻 Started my journey in tech at 15 : built cool stuff, worked with clients, and co-founded a dev agency.
-- 🛡️ Now transitioning into **Cybersecurity**, mainly focused on **Blue Teaming** : threat monitoring, network defense, and incident response.
-- 🧠 Learning by doing : setting up labs, analyzing real-world attacks, and working hands-on in Linux environments.
-- 💻 I still build when needed, but these days I'm more focused on defending systems and understanding how attacks can be detected and stopped.
-- 🎯 Goal: Expertise in Blue Team operations
+- ### 👨‍💻 Started my journey in tech at 15 : built cool stuff, worked with clients, and co-founded a dev agency.
+- ### 🛡️ Now transitioning into **Cybersecurity**, mainly focused on **Blue Teaming** : threat monitoring, network defense, and incident response.
+- ### 🧠 Learning by doing : setting up labs, analyzing real-world attacks, and working hands-on in Linux environments.
+- ### 💻 I still build when needed, but these days I'm more focused on defending systems and understanding how attacks can be detected and stopped.
+- ### 🎯 Goal: Expertise in Blue Team operations
 
 ---
 
@@ -65,12 +65,16 @@
 
 ---
 
-## 🔗 Connect with Me (If You Can Keep Up):
+## 🔗 My Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://adityaraj.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/4ditya.r4j)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/nerdinbiz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya7raj1/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/aditya7raj1)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/4ditya)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/aditya8raj)
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=Spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/scvexb3qekc6vgxmkf6o7iltc)
 
 ---
 
@@ -78,6 +82,7 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Beer-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aditya8raj)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aditya7raj1)
+[![Pay out](https://img.shields.io/badge/Pay%20Out-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj.vercel.app/pay-me)
 
 <p align="center">
     <img src="https://phone-connect.vercel.app/src/Ramen.gif" />
