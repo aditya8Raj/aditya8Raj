@@ -6,7 +6,7 @@
 
 </div>
 
-- ### 👨‍💻 Started my journey in tech at 15 : built cool stuff, worked with clients, and co-founded a dev agency.
+- ### 👨‍💻 Started my journey in tech at 15 : built cool stuff, worked on multiple projects, and co-founded a dev agency.
 - ### 🛡️ Now transitioning into **Cybersecurity**, mainly focused on **Blue Teaming** : threat monitoring, network defense, and incident response.
 - ### 🧠 Learning by doing : setting up labs, analyzing real-world attacks, and working hands-on in Linux environments.
 - ### 💻 I still build when needed, but these days I'm more focused on defending systems and understanding how attacks can be detected and stopped.
