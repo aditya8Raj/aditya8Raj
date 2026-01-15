@@ -6,46 +6,56 @@
 
 </div>
 
-- ### 👨‍💻 Started my journey in tech at 15 : built cool stuff, worked on multiple projects, and co-founded a dev agency.
-- ### 🛡️ Now transitioning into **Cybersecurity**, mainly focused on **Blue Teaming** : threat monitoring, network defense, and incident response.
-- ### 🧠 Learning by doing : setting up labs, analyzing real-world attacks, and working hands-on in Linux environments.
-- ### 💻 I still build when needed, but these days I'm more focused on defending systems and understanding how attacks can be detected and stopped.
-- ### 🎯 Goal: Expertise in Blue Team operations
+### 👨‍💻 Full-Stack Web Developer building real-world SaaS & web applications
+
+- 🚀 Started building in tech at 15 — shipped products, worked with real clients, and co-founded a web development agency.
+- 🧩 I specialize in **full-stack web development**: designing, building, and shipping production-ready applications end-to-end.
+- 🏗️ Strong focus on **SaaS products, dashboards, APIs, and automation** — software that solves real problems and scales.
+- 🛡️ Background in **cybersecurity fundamentals**, which helps me build more secure and reliable systems (supporting skill, not my primary role).
+- 🎯 Long-term goal: build and scale meaningful software products as an independent developer.
 
 ---
 
-## 🛡️ Cybersecurity Skills & Tools
+## 💻 Core Development Stack
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8488B?style=for-the-badge&logo=kibana&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-FCC624?style=for-the-badge&logoColor=black)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-3C3C3C?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2A2A?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 💻 Development Background
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+---
+
+## 🧩 What I Build
+
+- SaaS products and internal tools  
+- Web dashboards and business applications  
+- Discord & Telegram integrated systems  
+- Automation tools and API-driven workflows  
+- Clean, scalable frontends with robust backends  
+
+---
+
+## 🛡️ Security Awareness (Supporting Skillset)
+
+I maintain a solid foundation in cybersecurity to support better software design:
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+
+This helps me think about **secure architecture, safer APIs, and real-world failure cases** while building products.
+
+---
 
 <details>
-<summary>help...</summary>
-  
-*"Daemons. They don't stop working. They are always active. They seduce. They manipulate. They own us. And even though you're with me, even though I created you, it makes no difference. We all must deal with them alone. The best we can hope for... The only silver lining in all of this... is that when we break through, we find a few familiar faces waiting on the other side."*
+<summary>notes...</summary>
+
+*"Good software isn’t just written — it’s designed, tested, broken, fixed, and improved over time."*
 </details>
 
 ---
@@ -56,21 +66,17 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%235A5A5A.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Neofetch](https://img.shields.io/badge/Neofetch-2C3539?style=for-the-badge)
 ![ZSH](https://img.shields.io/badge/zsh-FAFAFA?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![tcpdump](https://img.shields.io/badge/tcpdump-005C99?style=for-the-badge&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-0095D5?style=for-the-badge&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-004170?style=for-the-badge&logoColor=white)
 
 ---
 
-## 🔗 My Socials:
+## 🔗 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/4dityar4j)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/nerdinbiz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya8Raj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya7raj1/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/nerdinbiz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/4dityar4j)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/aditya7raj1)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/4ditya)
 [![DEV](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aditya8raj/)
@@ -84,6 +90,8 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Beer-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aditya8raj)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aditya7raj1)
 [![Pay out](https://img.shields.io/badge/Pay%20Out-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj.vercel.app/pay-me)
+
+---
 
 <p align="center">
     <img src="https://phone-connect.vercel.app/src/Ramen.gif" />
