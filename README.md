@@ -8,9 +8,9 @@
 
 ### 👨‍💻 Full-Stack Web Developer building real-world SaaS & web applications
 
-- 🚀 Started building in tech at 15 — shipped products, worked with real clients, and co-founded a web development agency.
+- 🚀 Started building in tech at 15 - shipped products, worked with real clients, and co-founded a web development agency.
 - 🧩 I specialize in **full-stack web development**: designing, building, and shipping production-ready applications end-to-end.
-- 🏗️ Strong focus on **SaaS products, dashboards, APIs, and automation** — software that solves real problems and scales.
+- 🏗️ Strong focus on **SaaS products, dashboards, APIs, and automation** - software that solves real problems and scales.
 - 🛡️ Background in **cybersecurity fundamentals**, which helps me build more secure and reliable systems (supporting skill, not my primary role).
 - 🎯 Long-term goal: build and scale meaningful software products as an independent developer.
 
@@ -55,7 +55,7 @@ This helps me think about **secure architecture, safer APIs, and real-world fail
 <details>
 <summary>notes...</summary>
 
-*"Good software isn’t just written — it’s designed, tested, broken, fixed, and improved over time."*
+*"Good software isn’t just written - it’s designed, tested, broken, fixed, and improved over time."*
 </details>
 
 ---
